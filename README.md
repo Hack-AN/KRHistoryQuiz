@@ -1,1 +1,2 @@
 # KRHistoryQuiz
+Scripts Only
